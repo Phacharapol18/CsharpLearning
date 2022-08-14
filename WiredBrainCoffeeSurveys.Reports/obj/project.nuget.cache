@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "keLz2euL+U8Kzpw0Q11dXpDVquu2o2sGU6Jot2ZLUkD1xOQ3NDxiwBnZf3cpRNcShBE0xQnG8TtfQqZ43qYsCw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\csharp-program-flow\\WiredBrainCoffeeSurveys.Reports\\WiredBrainCoffeeSurveys.Reports.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phacharapol\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Phacharapol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\Phacharapol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Phacharapol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Phacharapol\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

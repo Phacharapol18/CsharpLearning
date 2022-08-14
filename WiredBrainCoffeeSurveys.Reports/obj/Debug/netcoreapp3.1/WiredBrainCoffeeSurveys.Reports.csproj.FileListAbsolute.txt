@@ -1,0 +1,16 @@
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.exe
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.deps.json
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.runtimeconfig.json
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.runtimeconfig.dev.json
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.dll
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.pdb
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.csproj.AssemblyReference.cache
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.AssemblyInfoInputs.cache
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.AssemblyInfo.cs
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.csproj.CoreCompileInputs.cache
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.csproj.CopyComplete
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.dll
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.pdb
+C:\code\csharp-program-flow\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.genruntimeconfig.cache
